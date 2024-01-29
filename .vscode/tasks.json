@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "ng",
+			"path": "angular-forms",
+			"problemMatcher": [],
+			"label": "npm: ng - angular-forms",
+			"detail": "ng"
+		}
+	]
+}
